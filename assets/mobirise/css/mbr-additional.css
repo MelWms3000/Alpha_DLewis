@@ -1064,6 +1064,14 @@ body {
 .cid-rAZmRHSpnq .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rAZvZgkcoc {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #000000;
+}
+.cid-rAZvZgkcoc .mbr-title {
+  color: #ffbc00;
+}
 .cid-rAZmUsqv4J .navbar {
   min-height: 77px;
   transition: all .3s;
@@ -1521,8 +1529,73 @@ body {
   color: #ffbc00;
   display: block;
 }
+.cid-rAZwCTuvx0 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #ffffff;
+}
+.cid-rAZwCTuvx0 .images-container.container-fluid {
+  padding: 0;
+}
+.cid-rAZwCTuvx0 .media-container-row {
+  margin: 0 auto;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-rAZwCTuvx0 .media-container-row .img-item {
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-rAZwCTuvx0 .media-container-row .img-item img {
+  width: 100%;
+}
+.cid-rAZwCTuvx0 .media-container-row .img-item .img-caption {
+  background: #ffbc00;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.cid-rAZwCTuvx0 .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rAZwCTuvx0 .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+.cid-rAZwCTuvx0 .media-container-row .img-item.item1 .img-caption {
+  right: 2rem;
+}
+@media (max-width: 992px) {
+  .cid-rAZwCTuvx0 .img-item {
+    width: 100% !important;
+  }
+  .cid-rAZwCTuvx0 .img-item.item1 {
+    width: 100%;
+    -webkit-flex-basis: initial !important;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+  .cid-rAZwCTuvx0 .img-item .img-caption {
+    position: relative !important;
+  }
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-rAZwCTuvx0 .media-container-row .img-item {
+    -webkit-flex-direction: row;
+    flex-direction: row;
+  }
+}
 .cid-rAZnxsE0nH {
-  background-image: url("../../../assets/images/background70.jpg");
+  background-image: url("../../../assets/images/background7.jpg");
 }
 .cid-rAZnxsE0nH .mbr-section {
   padding: 0;
