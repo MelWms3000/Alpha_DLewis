@@ -316,7 +316,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/background1.jpg",
+                "image": "@THEME_PATH@/components/_images/background1.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -333,7 +333,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/background2.jpg",
+                "image": "@THEME_PATH@/components/_images/background2.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -350,7 +350,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/background3.jpg",
+                "image": "@THEME_PATH@/components/_images/background3.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
